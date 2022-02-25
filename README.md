@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ManjuBhagtani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjuBhagtani&show_icons=true&theme=radical)
+
+Watch my contribution graph being eaten by a snake! 🐍
+![snake gif](https://github.com/ManjuBhagtani/ManjuBhagtani/blob/output/github-contribution-grid-snake.svg)
